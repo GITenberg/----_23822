@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '26054'
     url: http://www.gutenberg.org/2009/agents/26054
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23822#----
 gutenberg_issued: '2007-12-11'
 gutenberg_type: Text
 identifiers:
