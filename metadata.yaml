@@ -1,0 +1,33 @@
+_repo: '----_23822'
+_version: 0.1.0
+alternative_title: Wen xin diao long
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Liu, Xie
+    alias: 劉勰
+    gutenberg_agent_id: '26056'
+    url: http://www.gutenberg.org/2009/agents/26056
+  editors:
+  - agent_name: Li, Jen-shing
+    gutenberg_agent_id: '26055'
+    url: http://www.gutenberg.org/2009/agents/26055
+  - agent_name: Luo, Li-chian
+    gutenberg_agent_id: '26054'
+    url: http://www.gutenberg.org/2009/agents/26054
+description: ''
+gutenberg_issued: '2007-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23822'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Chinese literature -- History and criticism'
+title: 文心雕龍
+url: http://www.gutenberg.org/ebooks/23822
